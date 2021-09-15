@@ -1,0 +1,9 @@
+# commands to set up virtual env
+1)Set-ExecutionPolicy Unrestricted -Scope Process
+2)python -m venv venv
+3) venv\Scripts\activate
+
+'python manage.py migrate' to apply them.
+
+#ctrl+c to exit from server
+
